@@ -1,0 +1,446 @@
+/* // Large devices (desktops, less than 1200px) */
+@media (min-width: 988px) and (max-width: 1200px) {
+    .container{
+        width: 100%;
+        margin: 0 auto;
+        padding: 0 20px;
+     }
+    .img6 img{
+        padding: 0 0 0 104px;
+    }
+    .img {
+        padding: 0px 0 45px 0;
+    }
+    .col-30{
+        width: 32%;
+    }
+    .h1 h1 {
+        padding: 130px 0 0 0;
+        font-size: 70px;
+    }
+    .pera p{
+        font-size: 24px;
+    }
+    .img-3{
+        margin: 0px 0;
+    }
+    .box-1 p{
+        padding: 3px 25px 76px 25px;
+    }
+    .box {
+        padding: 0 0 0 0;
+    }
+    .email{
+        width: 334px;
+        margin: 0px;
+        padding: 11px 0 10px 10px;
+    }
+    .submit{
+        width: 165px;
+        bottom:45px;
+        left: 250px;
+    }
+    .icn{
+        position: relative;
+        bottom: 33px;
+        padding: 0 0 0 30px;
+    }
+    .icon{
+        font-size: 21px;
+    }
+    .sec5-img img{
+        width: 100%;
+    }
+}
+/* // Medium devices (tablets, less than 992px) */
+@media(min-width: 868px) and (max-width: 989px) {
+    .container{
+        width: 100%;
+        margin: 0 auto;
+        padding: 0 15px;
+    }
+    .img6 img {
+        padding: 0px 68px 0px 70px;
+    }
+    .img-2 img{
+        width: 100%;
+    }
+    .box-1 p{
+        padding: 5px;
+    }
+    .box{
+        padding: 0px;
+    }
+    .sec5-img img{
+        width: 100%;
+    }
+    .navbar ul li a {
+        margin: 0 65px 0 0;
+    }
+    .img-3 img {
+        width: 100%;
+    }
+    .img-3{
+        margin: 0px 0;
+    }
+    .box-1 h2{
+        padding: 19px 25px 0px 25px;
+    }
+    .h1 h1{
+        font-size: 64px;
+    }
+    .pera p{
+        font-size: 26px;
+    }
+    .pre-2 h3 , .pre h3{
+        font-size: 60px;
+    }
+    .pre-2 p , .pre p{
+        font-size: 20px;
+    }
+    .email{
+        width: 300px;
+        margin: 0px;
+    }
+    .submit{
+        width: 150px;
+        left: 210px;
+        bottom: 44px;
+    }
+    .icn{
+        position: relative;
+        bottom: 33px;
+        padding: 0 0 0 30px;
+    }
+}
+/* // Small devices (landscape phones, less than 768px) */
+@media (min-width: 668px) and (max-width: 868px) {
+    .container{
+        width: 100%;
+        margin: 0 auto;
+        padding: 0 15px;
+    }
+    .img6 img {
+        padding: 0px 0px 0px 40px;
+    }
+    .img6 h2{
+        font-size: 23px;
+    }
+    .img-2 img{
+        width: 100%;
+    }
+    .box-1 p{
+        padding: 5px;
+    }
+    .box{
+        padding: 0px;
+    }
+    .sec5-img img{
+        width: 100%;
+    }
+    .navbar ul li a {
+        margin: 0 43px 0 0;
+    }
+    .img-3 img {
+        width: 100%;
+    }
+    .img-3 , .two-p p{
+        margin: 0px auto;
+    }
+    .img-2 h2{
+        font-size: 20px;
+    }
+    .box-1 h2{font-size: 55px;}
+    .img-3 h2{
+        font-size: 25px;
+    }
+    .box-1 h2{
+        padding: 19px 25px 0px 25px;
+    }
+    .box-1 p , .nine-h1 p{
+        font-size: 16px;
+    }
+    .h1 h1{
+        font-size: 48px;
+    }
+    .pera p{
+        font-size: 20px;
+    }
+    .pre-2 h3 , .pre h3{
+        font-size: 50px;
+    }
+    .pre-2 p , .pre p{
+        font-size: 14px;
+    }
+    .email{
+        width: 300px;
+        margin: 0px;
+    }
+    .submit{
+        width: 150px;
+        left: 210px;
+        bottom: 44px;
+    }
+    .icn{
+        position: relative;
+        bottom: 33px;
+        padding: 0 0 0 30px;
+    }
+    .just img{
+        width: 100%;
+    }
+    .three-h1 h1{
+        padding: 0px;
+        font-size: 55px;
+    }
+    .three-p p{
+        width: 100%;
+        margin: 0px;
+    }
+    .main-img img{width: 200px;}
+    .content-8{padding: 50px 0;}
+    .eight-h1 h1 {font-size: 40px;}
+    .eight-p p{font-size: 22px;}
+    .btn-8{padding: 0px;}
+    .nine-h1 h1{font-size:25px;}
+    .nine-h1{padding: 25px 75px 20px 0;}
+}
+/* // X-Small devices (portrait phones, less than 576px) */
+@media (min-width:599px) and (max-width: 669px) {
+    .container{
+        width: 100%;
+        margin: 0 auto;
+        padding: 0 15px;
+    }
+    .three-p p{
+    font-size: 20px;
+    width: 100%;
+    margin: 95px auto;
+    }
+    .row{
+        display: block;
+    }
+    .img-2 img{margin: 0 auto;
+    display: block;}
+    .col-30 img{
+        display: block;
+        margin: 0 auto;
+    }
+    .pre h3 , .pre-2 h3{font-size: 50px;}
+    .col-50{
+        width: 100%;
+    }
+    .just{padding: 0px;}
+    .just img {
+        display: block;
+        margin: 0 auto;
+    }
+    .h1 h1{
+        padding: 35px 0 0 0;
+        font-size: 65px;
+    }
+    .pera p{font-size: 25px;}
+    .email{
+        width: 250px;
+        margin: 0px;
+    }
+    .content-8{padding: 0px;}
+    .btn-8{
+        margin: 7px 0 0 90px;
+        padding: 10px 0 30px 0;
+    }
+    .eight-p p{
+        padding: 14px 80px;
+        font-size: 20px;
+    }
+    .eight-h1 h1{
+        font-size: 42px;
+        padding: 20px 0;
+    }
+    .img-3{
+        margin: 5px auto;
+    }
+    .sec5-img img {
+        padding: 35px 0px;
+        width: 100%;
+    }
+    .box-1{
+        width: 30%;
+        margin: 0 auto;
+    }
+    .sec4-img img {
+        width: 100%;
+        padding: 0px;
+    }
+    .cart{
+        padding: 0px;
+    }
+    .box{padding: 0px;}
+    .box-1 p{
+        margin: 0 auto;
+        font-size: 15px;
+        padding: 3px 25px 20px 25px;
+    }
+    .box-1 h2{
+        padding: 16px 25px 0 25px;
+        font-size: 33px;
+    }
+    .col-30{
+        width: 100% !important;
+        display: block;
+    }
+    .col-20{width: 100%;}
+    .col-40{width: 100%;}
+    .nine-h1 {
+        padding: 10px 80px 10px 0;
+        width: 100%;
+        margin: 0 auto;
+    }
+}
+@media(min-width:470px) and (max-width:599px) {
+    .container{
+        width: 100%;
+        margin: 0 auto;
+        padding: 0 15px;
+    }
+    .row{
+        display: block;
+    }
+    .sec5-img img{
+        width: 100%;
+    }
+    .col-50{width: 100%;}
+    .col-20{width: 100%;}
+    .col-40{width: 100%;}
+    .col-30{width: 100%;}
+    .email{
+        width: 250px;
+        margin: 0px;
+    }
+    .btn-8{
+        margin: 0px;
+        padding: 0px 0 0 19px;
+    }
+    .eight-p p{font-size: 20px;}
+    .eight-h1 h1{font-size: 31px;}
+    .nine-h1{padding: 20px 66px 0 0;}
+    .pera p{
+        font-size: 20px;
+    }
+    .sec7-h1 h1{
+        font-size: 43px;
+        padding: 0 0 25px 0;
+    }
+    .six-h1 h1{
+        font-size: 45px;
+    }
+    .six-p p{
+        font-size: 15px;
+        padding: 2px 0px 30px 0px;
+    }
+    .img6 img{
+        padding: 0 120px 0 175;
+    }
+    .col-30 img{
+        display: block;
+        margin: 0 auto;
+    }
+    .h1 h1{
+        font-size: 32px;
+        padding: 20px 0 0 0;
+        margin: 0 auto;
+    }
+    .just{
+        padding: 0px;
+    }
+    .just img{
+        display: block;
+        margin: 0 auto;
+    }
+    .three-p p{
+        font-size: 16px;
+        margin: 4px auto;
+    }
+    .three-h1 h1{font-size: 50px;
+    padding: 0px;}
+    .pre h3{font-size: 38px;}
+    .pre p{font-size: 20px;}
+}
+@media (max-width:470px) {
+    .container{
+        width: 100%;
+        margin: 0 auto;
+        padding: 0 15px;
+    }
+    .row{
+        display: block;
+    }
+    .sec5-img img{
+        width: 100%;
+    }
+    .col-50{width: 100%;}
+    .col-20{width: 100%;}
+    .col-40{width: 100%;}
+    .col-30{width: 100%;}
+    .email{
+        width: 250px;
+        margin: 0px;
+    }
+    .btn-8{
+        margin: 0px;
+        padding: 0px 0 0 19px;
+    }
+    .eight-p p{font-size: 20px;}
+    .eight-h1 h1{font-size: 31px;}
+    .nine-h1{padding: 20px 66px 0 0;}
+    .pera p{
+        font-size: 20px;
+    }
+    .sec7-h1 h1{
+        font-size: 43px;
+        padding: 0 0 25px 0;
+    }
+    .six-h1 h1{
+        font-size: 45px;
+    }
+    .six-p p{
+        font-size: 15px;
+        padding: 2px 0px 30px 0px;
+    }
+    .img6 img{
+        padding: 0 120px 0 175;
+    }
+    .col-30 img{
+        display: block;
+        margin: 0 auto;
+    }
+    .h1 h1{
+        font-size: 32px;
+        padding: 20px 0 0 0;
+        margin: 0 auto;
+    }
+    .just{
+        padding: 0px;
+    }
+    .just img{
+        display: block;
+        margin: 0 auto;
+    }
+    .three-p p{
+        font-size: 16px;
+        margin: 4px auto;
+    }
+    .three-h1 h1{font-size: 50px;
+    padding: 0px;}
+    .pre h3{font-size: 38px;}
+    .pre p{
+        font-size: 20px;
+    }
+    .pre-2 h3{font-size: 36px;}
+    .two-h1 h1{font-size: 40px;}
+    .two-p p{
+        font-size: 17px;
+        width: 100%;
+    }
+    .box{padding: 0px;}
+}
